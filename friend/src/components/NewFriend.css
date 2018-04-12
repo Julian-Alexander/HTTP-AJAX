@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.box {
+    height:22px;
+}
