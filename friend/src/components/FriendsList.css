@@ -9,9 +9,10 @@
     border: 2px solid red;
     display: flex;    
     flex-flow: column nowrap;
-    width: 22%;
+    width: 33%;
     padding: 1em;
     margin: 1% auto 1% auto;
+    min-width: 333px;
 }
 
 .friendName {
